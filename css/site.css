@@ -18,6 +18,7 @@
         color:var(--primary-color);
     }
 
+  
 
 
 
@@ -67,3 +68,6 @@ white-space: pre-wrap;
 word-break: break-all;
 word-wrap: break-word;
 }
+
+.logoFont{font-family: 'Silkscreen', cursive;}
+.secondary{color:#ff993b}
